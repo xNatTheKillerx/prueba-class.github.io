@@ -8,3 +8,6 @@ git commit
 git log
 git rm  aplica antes del primer commit
 git restore aplica despues del primer commit
+git diff
+git checkout
+git branch

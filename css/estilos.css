@@ -1,4 +1,6 @@
 body
 {
     display: block;
+    margin 20px;
+    background-color: aqua;
 }
